@@ -5,6 +5,11 @@
       text-align: center;
 }
 
+#p03 {
+      border: solid powderblue 2px;
+      font-size:260%;
+}
+
 body {
    background-color:black;
 }
